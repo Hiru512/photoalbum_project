@@ -1,0 +1,56 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 55px;
+    margin-top: 15px;
+}
+
+.list1 {
+    margin-top: 130px;
+    font-size: 20px;
+    list-style-image: url('images/love.png');
+}
+
+.list2 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/mini.png');
+}
+
+.list3 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/hyeoni.png');
+}
+
+.list4 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/location.png');
+}
+
+.list5 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/anniversary.png');
+}
+
+.list6 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/gift.png');
+}
+
+.list7 {
+    margin-top: 20px;
+    font-size: 20px;
+    list-style-image: url('images/food.png');
+}
+
+.container {
+    margin-top: 130px;
+    font-size: 30px;
+}
